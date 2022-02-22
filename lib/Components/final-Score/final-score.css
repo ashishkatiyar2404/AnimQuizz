@@ -1,0 +1,8 @@
+#final__score-section {
+  margin: 2% auto 1% auto;
+}
+
+.section .final__score {
+  text-align: center;
+  border-bottom: 2px solid gray;
+}
