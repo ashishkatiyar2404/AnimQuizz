@@ -1,0 +1,14 @@
+:root {
+  --color-white: white;
+  --color-red-shade: rgb(214, 75, 75);
+  --color-green-shade: rgb(22, 228, 118);
+}
+.options .option__wrong {
+  color: var(--color-white);
+  background-color: var(--color-red-shade);
+}
+
+.options .option__right {
+  color: var(--color-white);
+  background-color: var(--color-green-shade);
+}
